@@ -1,0 +1,33 @@
+#ozadje {
+  background-color:#f7f7f7"
+}
+h1 {
+  font-family: Helvetica;
+   font-size:24px;
+   background-color: #3b5998;
+   color:white;
+   padding:20px;
+}
+
+.slika1 {
+    width:200px;
+    height:200px;
+    box-shadow: 4px 4px 5px #aaa;
+}
+h2 {
+  font-size:24px;
+}
+.gumbi {
+  padding: 5px;
+  margin: 1px;
+}
+p {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.photos {
+  width:50px;
+  height:50px;
+  border:1px solid;
+}
